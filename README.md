@@ -1,6 +1,18 @@
 # superstore-dataset-E-commerce
 The main aim of this project is to analyze customer purchasing patterns, sales performance, and profitability using retail sales data to uncover meaningful business insights and support data-driven decision-making.
 
+
+Dataset Information:-
+
+Dataset Name: Superstore Dataset Final
+
+Domain: Retail Sales Analytics
+
+Source: Kaggle
+
+Dataset Type: Structured CSV Dataset
+
+
 Project Objectives :-
 
 * Analyze overall sales performance across different categories, regions, and time periods.
