@@ -1,4 +1,4 @@
-# superstore-dataset-E-commerce
+# superstore-dataset-Retail
 The main aim of this project is to analyze customer purchasing patterns, sales performance, and profitability using retail sales data to uncover meaningful business insights and support data-driven decision-making.
 
 
